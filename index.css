@@ -68,12 +68,7 @@ html, body #fullheight {
     border: none;
 }
 
-.numbers {
-    background-color: #343434;
-    border: none;
-}
-
-.coma, .comma {
+.numbers, .comma {
     background-color: #343434;
     border: none;
 }
